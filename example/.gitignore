@@ -1,0 +1,7 @@
+build/
+dist/
+src/ext/simple_wrap.c
+src/simple.egg-info/
+src/simple/simple.py
+src/simplemod.egg-info/
+venv/
